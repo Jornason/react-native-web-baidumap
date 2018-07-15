@@ -1,0 +1,44 @@
+{
+  "_from": "git+https://github.com/Jornason/react-native-web-baidumap.git",
+  "_id": "react-native-web-baidumap@1.1.9",
+  "_inBundle": false,
+  "_location": "/react-native-web-baidumap",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/Jornason/react-native-web-baidumap.git",
+    "rawSpec": "https://github.com/Jornason/react-native-web-baidumap.git",
+    "saveSpec": "git+https://github.com/Jornason/react-native-web-baidumap.git",
+    "fetchSpec": "https://github.com/Jornason/react-native-web-baidumap.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Jornason/react-native-web-baidumap.git#2c5007927d6dae3b23a319dc513293d56bf2b359",
+  "_spec": "https://github.com/Jornason/react-native-web-baidumap.git",
+  "_where": "/Users/jornason/Documents/Git/react-native-unity-shangtu",
+  "author": {
+    "name": "Jornason"
+  },
+  "bugs": {
+    "url": "https://github.com/Jornason/react-native-web-baidumap/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "react-native echarts",
+  "homepage": "https://github.com/Jornason/react-native-web-baidumap#readme",
+  "keywords": [
+    "react-native",
+    "echarts"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-web-baidumap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jornason/react-native-web-baidumap.git"
+  },
+  "version": "1.1.9"
+}
