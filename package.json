@@ -27,11 +27,11 @@
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "react-native echarts",
+  "description": "react-native baidumap",
   "homepage": "https://github.com/Jornason/react-native-web-baidumap#readme",
   "keywords": [
     "react-native",
-    "echarts"
+    "baidumap"
   ],
   "license": "MIT",
   "main": "index.js",
